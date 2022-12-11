@@ -6,12 +6,14 @@
 
 Markov process
 
-Bellman equation: Bellman Expectation Equation, Bellman optimality equation
+Bellman equation: Bellman Expectation Equation & Bellman optimality equation
 
 ## 3 Dynamic Programming
 
 To solve: The optimal policy in Markov decision processes
 
-Policy Iteration
+Policy Iteration & Value Iteration
 
-Value Iteration
+## 4 Temporal Difference Model
+
+Sarsa Algorithm & Q-Learning
